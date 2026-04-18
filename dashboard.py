@@ -3,10 +3,10 @@ import pandas as pd
 import numpy as np
 
 # Configuración de página: debe ser la primera instrucción de Streamlit
-st.set_page_config(page_title="InteractHack Dashboard", layout="wide")
+st.set_page_config(page_title="Interact2Hack Dashboard", layout="wide")
 
 def main():
-    st.title("🚀 InteractHack Datamine Dashboard")
+    st.title("🚀 Interact2Hack Datamine Dashboard")
     st.markdown("---")
 
     # 1. Prueba de carga (Para descartar que sea tu lógica la que falla)
