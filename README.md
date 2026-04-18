@@ -1,12 +1,12 @@
-# 📉 Antes de que se vayan — Scoring Predictivo de Abandono
+# # Interact2Hack 2026 - Datamine 🚀
+## Proyecto: Antes de que se vayan — Scoring Predictivo
 
-![Status](https://img.shields.io/badge/Status-En%20Desarrollo-orange?style=for-the-badge&logo=github)
+![Status](https://img.shields.io/badge/Hackathon-Interact2Hack--2026-darkblue?style=for-the-badge)
 ![Category](https://img.shields.io/badge/Línea-Datos%20%2F%20IA-blue?style=for-the-badge)
-![Target](https://img.shields.io/badge/Métrica-AUC%20%3E%200.75-green?style=for-the-badge)
+![Model](https://img.shields.io/badge/Target-Churn%20Prediction-green?style=for-the-badge)
 
-**Deuna** necesita anticipar qué comerciantes están por dejar de transar. Este repositorio contiene una solución de IA para identificar riesgos y priorizar la retención comercial.
+> Solución integral para la detección temprana de abandono de comerciantes en la plataforma **Deuna!**.
 
-[Sitio Web Deuna](https://www.deuna.com.ec) • [Documentación](#) • [Reportar Error](#)
 # Interact2Hack 2026 - Datamine
 
 ## Descripción
@@ -19,13 +19,12 @@ Este proyecto tiene como base resolver el problema propuesto por deuna!, constru
 ## Alcance
 Incluye un procesamiento y análisis de datos, entrenamiento y evaluación de modelos, explicabilidad, construccion de dashboard y recomendaciones de negocio.
 
-## Organización del equipo
-### Data Science
--Aaron Palacios
-### Data Analysis
--Jade Revelo
--James Caiño
-### Dev/ML
--Enrique Betancourt
-### Negocio
--Paola Pacheco
+## Organización del Equipo: Datamine
+
+| Rol | Integrante |
+| :--- | :--- |
+| **Data Science** | Aaron Palacios |
+| **Data Analysis** | Jade Revelo |
+| **Data Analysis** | James Caiño |
+| **Dev / ML** | Enrique Betancourt |
+| **Negocio** | **Paola Pacheco** |
